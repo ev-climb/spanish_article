@@ -1,0 +1,10 @@
+.article {
+    max-width: 800px;
+}
+
+@media (max-width: 1150px) {
+    .article {
+        max-width: 70%;
+        
+    }
+}

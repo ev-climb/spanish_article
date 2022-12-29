@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'RFDewi';
+    font-style:  light;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../../vendor/fonts/RFDewi-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'RFDewi';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../../vendor/fonts/RFDewi-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'RFDewi';
+    font-style:  bold;
+    font-weight: 900;
+    font-display: swap;
+    src: url("../../vendor/fonts/RFDewi-Bold.woff") format("woff");
+}

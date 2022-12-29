@@ -1,0 +1,17 @@
+.side-menu__icon {
+    width: 80px;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    transition: all 1s ease;
+    cursor: pointer;
+}
+
+.side-menu__icon:nth-last-child(2) {
+    width: 30px;
+    height: 30px;
+}
+
+.side-menu__icon:hover {
+    transform:scale(1.25);
+}

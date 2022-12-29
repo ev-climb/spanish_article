@@ -1,0 +1,10 @@
+.article__text-link {
+    font-weight: 900;
+    border-bottom: 1px solid #BABABA;
+    cursor: pointer;
+}
+
+.article__text-link:hover {
+    color: #B80000;
+    border-bottom: 2px solid #B80000;
+}

@@ -1,0 +1,12 @@
+.side-menu__link {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    border-bottom: 1px solid #ebebeb;
+}

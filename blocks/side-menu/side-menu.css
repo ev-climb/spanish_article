@@ -1,0 +1,14 @@
+.side-menu {
+    width: 80px;
+    border-left: 1px solid #ebebeb;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    right: 0;
+}
+
+@media (max-width:800px) {
+    .side-menu {
+        display: none;
+    }
+}

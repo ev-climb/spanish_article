@@ -1,0 +1,16 @@
+.article__title {
+    font-size: 2.75rem;
+    line-height: 3rem;
+    font-family: ReithSerif, Helvetica, Arial, freesans, sans-serif;
+    font-weight: 500;
+    color: #3F3F42;
+    margin: 20px 0 15px;
+}
+
+@media (max-width: 1150px) {
+    .article__title {
+        font-size: 2rem;
+        text-align: center;
+        line-height: normal;
+    }
+}

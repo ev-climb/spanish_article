@@ -1,0 +1,11 @@
+.footer__icons {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 800px) {
+    .footer__icons {
+        margin-top: 15px;
+    }
+}

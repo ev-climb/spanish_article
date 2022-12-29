@@ -1,0 +1,9 @@
+.footer__icon-social {
+    width: 30px;
+    margin-right: 8px;
+    transition: all 1s ease;
+}
+
+.footer__icon-social:hover {
+    transform:scale(1.25);
+}

@@ -1,0 +1,9 @@
+.article__main-photo-description {
+    background: #3F3F42;
+    color: #EEEEEE;
+    padding: 1rem;
+    text-align: center;
+    margin-top: -3px;
+    font-weight: 600;
+    font-size: 14px;
+}

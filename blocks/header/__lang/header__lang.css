@@ -1,0 +1,16 @@
+.header__lang {
+    width: 114px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+@media (max-width: 800px) {
+    .header__lang {
+        display: none;
+    }
+}
+
+.header__lang:hover {
+    font-weight: 700;
+}
